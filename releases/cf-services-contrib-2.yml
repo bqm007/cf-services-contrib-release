@@ -347,11 +347,11 @@ packages:
     NzViODBlMmQwNDg2M2E1N2EyM2UxYWRiMTc3ZGI5ODIyM2JjZWRlNA==
   dependencies: []
 - name: ruby
-  version: 11
+  version: 1
   sha1: !binary |-
-    MzI3YzQ5NTY3NjVjNTAwZDE4YjhkMjhhNWFhMzExM2Q5MDU1ZTQ3Ng==
+    NzRkY2FkNjFiMjlhNzg1YTI0NjBhZTZlMjlhNDU4YjE0NWEyZWYxNg==
   fingerprint: !binary |-
-    YTAyODRmM2VmYmJjNDMxOGUwYTliYjU3ZTE5MjQ0MzY0M2RlMzJiMQ==
+    M2I3OGM2ZGY1ZTlmMzMzYTRjNTk5ODAyNjVkMzU4ZWVhNDI3YTNkNg==
   dependencies:
   - libyaml
 - name: ruby_next
