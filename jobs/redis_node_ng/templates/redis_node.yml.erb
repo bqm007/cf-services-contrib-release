@@ -3,6 +3,7 @@
 service = "redis"
 plan_enabled = properties.service_plans && properties.service_plans.send(service.to_sym)
 plan = properties.plan || "free"
+puts "redis--------------------11111111111111111111"
 plan_conf = plan_enabled && properties.service_plans.send(service.to_sym).send(plan.to_sym).configuration
 node = properties.redis_node
 supported_versions = node.supported_versions
